@@ -1,0 +1,14 @@
+html{
+    height: 100%;
+}
+.footer{
+    margin-top: 30px;
+    text-align: center;
+}
+.bg_footer{
+    background-color: #000000;
+    padding: 15px;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #fff;
+}
